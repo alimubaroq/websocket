@@ -1,4 +1,4 @@
-# 💬 Bangun Chat Real-Time Tanpa Pusing Bareng WebSocket!
+# 💬 “Bikin Chat Real-Time Gak Pake Ribet: Ngobrol Seketika dengan WebSocket!”
 
 Pernah kepikiran bikin aplikasi chat sendiri yang bisa kirim pesan **instan tanpa reload**? Lewat eksperimen ini, kamu bakal lihat gimana **WebSocket** bisa bikin komunikasi dua arah berjalan real-time — simpel, ringan, dan bisa dipraktekkan langsung cuma pakai **HTML**, **CSS**, dan **JavaScript**.
 
